@@ -1,0 +1,15 @@
+@import "tailwindcss";
+@plugin "daisyui";
+.test{
+  color:yellow;
+  
+  
+}
+body{
+  background: linear-gradient(rgba(0,0,0, 0.2),rgba(0,0,0,0.5)),url('../public/back.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position:center;
+  
+  
+}

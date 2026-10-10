@@ -1,0 +1,34 @@
+{
+    "_": {
+        "postman_id": "456c1c86-d222-4c04-bd0e-5d6de3baaedb"
+    },
+    "item": [
+        {
+            "id": "6a822a4f-c992-4a9c-8f40-692284b33b34",
+            "name": "auth",
+            "item": [
+                {
+                    "id": "7b05bbb7-ffe9-47e0-b522-7203283f239b",
+                    "name": "post",
+                    "request": {
+                        "url": {
+                            "query": [],
+                            "variable": []
+                        },
+                        "method": "POST"
+                    },
+                    "response": [],
+                    "event": []
+                }
+            ],
+            "event": []
+        }
+    ],
+    "event": [],
+    "variable": [],
+    "info": {
+        "_postman_id": "456c1c86-d222-4c04-bd0e-5d6de3baaedb",
+        "name": "chatapp",
+        "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+    }
+}
